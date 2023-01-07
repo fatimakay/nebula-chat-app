@@ -9,8 +9,8 @@ import { getStorage, ref } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBj5I73dz3i0F1J3v7oh3zWiaxd8ugGV3g",
-  authDomain: "nebulachatapp.firebaseapp.com",
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
   projectId: "nebulachatapp",
   storageBucket: "nebulachatapp.appspot.com",
   messagingSenderId: "741692584435",
